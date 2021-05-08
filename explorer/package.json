@@ -15,7 +15,7 @@
     "morgan": "~1.6.1",
     "serve-favicon": "~2.3.0",
     "solc": "^0.1.6",
-    "web3": "^0.15.3"
+    "web3": "^1.2.0"
   },
   "devDependencies": {
     "simplelists": "0.0.6",
