@@ -13,7 +13,7 @@
     "simpleargs": "0.0.2",
     "simpledsl": "0.0.3",
     "solc": "0.4.8",
-    "web3": "^0.15.3",
+    "web3": "^1.2.0",
     "node-json-rpc": "^0.0.1",
     "bitcoind-rpc": "0.7.0",
     "deasync": "0.1.9",
