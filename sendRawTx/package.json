@@ -9,7 +9,7 @@
   "author": "Bernardo Codesido",
   "license": "MIT",
   "dependencies": {
-    "web3": "^0.15.3",
+    "web3": "^1.2.0",
     "ethereumjs-tx": "latest"
   }
 }
